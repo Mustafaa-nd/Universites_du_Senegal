@@ -1,0 +1,72 @@
+*
+{
+    box-sizing: border-box;
+}
+
+header, nav, footer, iframe
+{
+    position: absolute;
+    color: white;
+}
+
+header, nav, footer
+{
+    font-style: 2em;
+    margin: 0px;
+
+}
+
+header
+{
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 15%;
+    background-color: #252B48;
+    font-family: "Agency FB";
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    font-size: 2em;
+    
+}
+
+h1
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+nav
+{
+    top: 15%;
+    left: 0%;
+    width: 100%;
+    height: 6%;
+    background-color: #445069;
+    padding: 0%;
+    text-align: center;
+    
+
+}
+
+nav ul li
+{
+    display: inline;
+}
+
+nav ul li a
+{
+    text-decoration: none;
+    color: #F7E987;
+}
+
+iframe
+{
+    background-color: #5B9A8B;
+    top: 21%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+
